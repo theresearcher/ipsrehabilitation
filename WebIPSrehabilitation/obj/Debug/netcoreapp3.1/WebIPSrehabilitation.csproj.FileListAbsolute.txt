@@ -1,0 +1,282 @@
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.StaticWebAssets.xml
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.exe
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.deps.json
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.json
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.dev.json
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.AssemblyReference.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfoInputs.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfo.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CoreCompileInputs.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.Manifest.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.xml
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebIPSrehabilitation.styles.css
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.input.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.output.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorCoreGenerate.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cache
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cs
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CopyComplete
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+C:\Users\hovie\OneDrive\IpsRehabilitationWeb\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.genruntimeconfig.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.StaticWebAssets.xml
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.exe
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.deps.json
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.json
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.dev.json
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.AssemblyReference.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfoInputs.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfo.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CoreCompileInputs.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.Manifest.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.xml
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebIPSrehabilitation.styles.css
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.input.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.output.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorCoreGenerate.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutIPS.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cache
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cs
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CopyComplete
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+E:\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.genruntimeconfig.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.StaticWebAssets.xml
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.exe
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.deps.json
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.json
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.runtimeconfig.dev.json
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.AssemblyReference.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfoInputs.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.AssemblyInfo.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CoreCompileInputs.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.MvcApplicationPartsAssemblyInfo.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorAssemblyInfo.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.Manifest.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\staticwebassets\WebIPSrehabilitation.StaticWebAssets.xml
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebIPSrehabilitation.styles.css
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.input.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.TagHelpers.output.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorCoreGenerate.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutIPS.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.RazorTargetAssemblyInfo.cs
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.Views.pdb
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.csproj.CopyComplete
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.dll
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.pdb
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\WebIPSrehabilitation.genruntimeconfig.cache
+D:\Thinking hard\ips rehabilitacion web\WebIPSrehabilitation\WebIPSrehabilitation\WebIPSrehabilitation\obj\Debug\netcoreapp3.1\Razor\Pages\acerca.cshtml.g.cs
